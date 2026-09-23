@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "4cb8b021911686039c2a8eb9",
+  "owner": "vruqtumfy",
+  "repo": "page-2b6984a45ccd8cfac89bbce9",
+  "title": "s",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "2b6984a45ccd8cfac89bbce9",
+      "a": "s",
+      "b": "稳定全球clash加速器",
+      "entity": "s",
+      "brand": "s",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "fbf60c922ceabd21340260ea661f6ab019a994f2d24b59beeb8dc3d212eb52bc",
+      "content": {
+        "primary_entity": "s",
+        "keyword1": "s",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_DESCRIPTION": "，s 提供多档订阅方案，覆盖基础浏览、全节点流媒体解锁与 IPLC 专线游戏加速。基础版每月 100GB 流量与 3 台设备，旗舰版每月 300GB 流量与 5 台设备，团队版每月 1000GB 流量与 20 台设备。按年付更划算，年费分别为 ¥150、¥350 与 ¥850。",
+          "AI_HERO_SUBTITLE": "选择适合的加速方案",
+          "AI_HERO_INTRO": "s 是一款面向跨境访问的海外加速器，提供从基础浏览到团队协作的多档订阅。依据设备数量与流量需求选择套餐，按年付享更优价格。",
+          "AI_VISUAL_TITLE": "s 加速方案",
+          "AI_HIGHLIGHT_1": "多档套餐匹配不同设备数",
+          "AI_HIGHLIGHT_2": "流媒体与游戏加速可选",
+          "AI_HIGHLIGHT_3": "按年付更省费用",
+          "AI_FEATURES_TITLE": "套餐与设备",
+          "AI_FEATURES_INTRO": "按设备数量和流量需求挑选合适套餐。",
+          "AI_FEATURE_TITLE_1": "流量与设备",
+          "AI_FEATURE_TEXT_1": "基础版 100GB/3 台，旗舰版 300GB/5 台，团队版 1000GB/20 台。",
+          "AI_FEATURE_TITLE_2": "线路与解锁",
+          "AI_FEATURE_TEXT_2": "旗舰版提供 IPLC 专线游戏优化与全节点原生流媒体解锁。",
+          "AI_FEATURE_TITLE_3": "订阅周期",
+          "AI_FEATURE_TEXT_3": "月付灵活，年付更省，年费分别 ¥150、¥350、¥850。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "基础版适合轻度使用，旗舰版兼顾流媒体与游戏，团队版适合多设备协作。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLIENTS_INTRO": "Clash 客户端覆盖 Windows、macOS、Android 与 iOS，按设备系统选择对应版本，参考客户端文档导入订阅。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_GUIDE_INTRO": "选择套餐、确认设备适配、按客户端文档配置订阅。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TEXT_1": "根据设备数量和月流量需求，在基础版、旗舰版与团队版之间选择。",
+          "AI_STEP_TITLE_2": "查看适配",
+          "AI_STEP_TEXT_2": "确认设备系统与客户端版本，检查套餐支持的在线设备数量。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_STEP_TEXT_3": "按对应客户端文档，将订阅地址导入 Clash，完成配置后即可使用。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_CLOSING_TITLE": "选对套餐",
+          "AI_CLOSING_TEXT": "根据设备数和流量需求挑选套餐，按年付更省费用。",
+          "AI_FAQ_ANSWER_1": "基础版适合 1 至 3 台设备、每月 100GB 以内流量；旗舰版适合 5 台设备、每月 300GB 并需要 IPLC 专线游戏加速；团队版适合 20 台设备、1000GB 流量及企业定制路由。",
+          "AI_FAQ_ANSWER_2": "可以。基础版、旗舰版、团队版均提供月付与年付，年付价格分别为 ¥150、¥350、¥850，按需要长期使用可选择年付。",
+          "AI_FAQ_ANSWER_3": "基础版支持 3 台设备同时在线，旗舰版支持 5 台，团队版支持 20 台。可按日常使用人数选择对应设备数量的套餐。",
+          "AI_FAQ_ANSWER_4": "在客户端中导入订阅地址，选择节点后连接。不同客户端操作略有差异，可参照所用客户端的配置文档设置。",
+          "AI_FAQ_ANSWER_5": "旗舰版提供 IPLC 专线游戏加速优化和 7x24 优先工单支持；团队版提供 VIP 专属高带宽节点与专属客户经理服务，可按使用场景选择。",
+          "AI_FAQ_QUESTION_1": "基础版、旗舰版、团队版怎么选？",
+          "AI_FAQ_QUESTION_2": "可以按月付也可以按年付吗？",
+          "AI_FAQ_QUESTION_3": "每个套餐支持几台设备同时在线？",
+          "AI_FAQ_QUESTION_4": "拿到订阅后怎么在客户端使用？",
+          "AI_FAQ_QUESTION_5": "旗舰版和团队版有什么区别？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xn--9kqp2fhsl1jyr5g.com",
+    "host": "xn--9kqp2fhsl1jyr5g.com"
+  },
+  "file_hashes": {
+    "index.html": "f0047d81c3af2e080fa3f1bc58b9c50e12c0b7a38cb6d9d23ac364cf7093ad80",
+    "sitemap.xml": "550ef18f915e38163ce8c3881638b20f2e722315a5dbc8cdbb58a22d8c8da95f",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "a8f76dbd77b694e3011c3a60deed95968015f86d368c667ddfe6dcb4fb75a04c",
+    "robots.txt": "360331c9704a9a5b317e6b247517fb7330397d027026df88b14a5b2895abc8cf",
+    "44b6718516ac6f743e64e917b5e15d7d.txt": "d66fbd0a739f22789f410f28e6c506d044ae854c72bc95050cce436380e2f713"
+  },
+  "revision": "4f0e67cdf44fb24bd821e61c0bf873802241598166de316663dd9c4c6b6a0d52"
+}
